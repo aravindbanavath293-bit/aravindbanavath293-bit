@@ -1,6 +1,6 @@
 <!-- Paste into your profile README.md. Replace YOUR_USERNAME / YOUR_NAME. -->
 
-<h1 align="center">&lt;/&gt; YOUR_NAME</h1>
+<h1 align="center">&lt;/&gt; Banavath Aravind</h1>
 <p align="center"><b>Simple coder · Full stack · Vibe coder</b></p>
 
 <p align="center">
