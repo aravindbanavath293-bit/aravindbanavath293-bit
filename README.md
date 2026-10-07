@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a2e0f,100:00FF41&height=210&section=header&text=Cybericon7&fontSize=58&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20%7C%20Reverse%20Engineering%20%7C%20Exploit%20Dev&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a2e0f,100:00FF41&height=210&section=header&text=Cybericon7&fontSize=58&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20%7C%20Reverse%20Engineering%20%7C%20Bug%20YHunting=60&descSize=16" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=00FF41&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+Cybericon7;Understand+systems+learning+CTF+And+Kali+Tools;Still+learning.+Still+building.;sudo+hack+--ethical" alt="typing" />
