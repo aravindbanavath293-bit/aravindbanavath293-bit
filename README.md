@@ -16,6 +16,7 @@ Education : BITS Pilani & NIAT
 Platform  : Linux (Kali)
 
 Focus:
+  - AI / ML 
   - Offensive Security
   - Penetration Testing
   - Bug Hunting
