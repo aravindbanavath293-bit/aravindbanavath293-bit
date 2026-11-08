@@ -13,7 +13,7 @@ Name      : Banavath Aravind
 Alias     : CyberSter
 Location  : India
 Education : BITS Pilani & NIAT
-Platform  : Windows, Linux (Kali) & Arch
+Platform  : Windows, Linux (Kali) & (Arch)
 
 Focus:
   - AI / ML 
